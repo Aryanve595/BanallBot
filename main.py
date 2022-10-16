@@ -38,7 +38,7 @@ Owner = "ItsmeHyper13"
 repo = "https://github.com/ItsmeHyper13/BanallBot"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/+p2A5gHTe9_YzNDk1"), Button.url("••OWNER••", https://t.me/Heartlessaryan_op)]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/+p2A5gHTe9_YzNDk1"), Button.url("••OWNER••", "https://t.me/Heartlessaryan_op")]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -72,7 +72,7 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/+p2A5gHTe9_YzNDk1"), Button.url("••OWNER••", https://t.me/Heartlessaryan_op)]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/+p2A5gHTe9_YzNDk1"), Button.url("••OWNER••","https://t.me/Heartlessaryan_op")]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
