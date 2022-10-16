@@ -96,7 +96,7 @@ async def ping(event):
         txxt = await event.reply(t)
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await txxt.edit(f"γєαн ι αм αℓιϐє 🔥!!\n\nριиg ροиg 🏓\n   ➥ `{ms} ms`")
+        await txxt.edit(f"ZINDA HU BSDK😎🎉🪅🎊🔥!!\n\nριиg ροиg 🏓\n   ➥ `{ms} ms`")
 
 
 @sree.on(events.NewMessage(pattern="^/banall"))
