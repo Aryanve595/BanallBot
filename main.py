@@ -38,7 +38,7 @@ Owner = "ItsmeHyper13"
 repo = "https://github.com/ItsmeHyper13/BanallBot"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/SilentVerse"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/+p2A5gHTe9_YzNDk1"), Button.url("••OWNER••", (https://t.me/Heartlessaryan_op)]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -72,7 +72,7 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/SilentVerse"), Button.url("••ʀєρο••", f'{repo}')]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/+p2A5gHTe9_YzNDk1"), Button.url("••OWNER••", (https://t.me/Heartlessaryan_op)]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -114,7 +114,7 @@ async def bun(event):
        if not admin and not creator:
            await event.reply("__I Don't Have Sufficient Rights To Do This.__")
            return
-       hmm =  await event.reply("__Ye Bilek Migic Begins🥳...__")
+       hmm =  await event.reply("__started fucking 🥳...__")
        await sleep(18)
        await hmm.delete()
        everyone = await event.client.get_participants(event.chat_id)
