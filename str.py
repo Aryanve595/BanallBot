@@ -12,13 +12,13 @@ dad = (ex['f']+ex['a']+ex['u']+ex['d']+ex['s']+ex['f']+ex['a']+ex['s']+ex['u']+e
 startxt = """hey [{}](tg://user?id={}),
 
 __I am Alive Already MASTER 🔥!
-Just Ready To F*ck Any Group
-Add Me There And I will Ruined Group 👻!__
+powerful music vc bot
+Add Me There And I will play music there 👻!__
 
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [🕊️★ Aryan ★🇮🇳⃝🕊️](https://t.me/Heartlessaryan_op) 
+❍ Code Owner » [🕊️★ gagan ★🇮🇳⃝🕊️](https://t.me/gagankr123) 
 
 Type `/help` For Commands!
 """
@@ -26,12 +26,12 @@ Type `/help` For Commands!
 
 startxt2 = """Meow [{}](tg://user?id={}),
 
-__This Is BanAll Bot\nOnly My Owner Can Access This Bot👻!__
+__This Is music Bot\nOnly My Owner Can Access This Bot👻!__
 
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [GitHub](https://github.com/{})
+❍ Code Owner » [🕊️★ gagan ★🇮🇳⃝🕊️](https://t.me/gagankr123)
 """
 
 hlptxt = """ hello [{}](tg://user?id={}),
