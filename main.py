@@ -38,7 +38,7 @@ Owner = "ItsmeHyper13"
 repo = "https://github.com/ItsmeHyper13/BanallBot"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••ѕυρροяτ••", " https://t.me/+lAZabwdgmi80ZTA1"), Button.url("••OWNER••", "https://t.me/gagankr123")]
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/+lAZabwdgmi80ZTA1"), Button.url("••OWNER••", "https://t.me/gagankr123")]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
